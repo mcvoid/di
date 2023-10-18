@@ -130,4 +130,4 @@ more than one dependency in the context, `Inject` will return an error.
 
 ### License
 
-DI is released under the standard 3-clause MIT license.
+DI is released under the standard 3-clause BSD license.
